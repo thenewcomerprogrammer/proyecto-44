@@ -1,0 +1,11 @@
+1 : personajes : pc : niño ,npc enemigo, npc amigable
+2 : historia :
+3 : objetivos : mientras mas elemiminaciones te vuelves mas fuerte, enemigos te temen, ganas cuando 
+elmimines todos los enemigos posibles con 3 vidas, se guarda el proceso, superar tu puntuacion anterior.
+4 : REGLAS :no puedes eliminar npcs amigables/ si eliminas 5 npcs amigables, se convierten en npc enemigos
+si se obtienen 10 enemigos contrincantes se aumentan 1 vida, vidas iniciales : 3, maximo de vidas : 5 
+por  partida.
+5 : equilibrio : enemigos
+6 : adaptabilidad : cada vez que se avanzas, la velocidad aumenta
+7 : suerte vs habilidad : habil para evitar obstaculos, enemigos aparecen en forma aleatoria.
+8 : retroalimentacion : la barra de puntuaje
